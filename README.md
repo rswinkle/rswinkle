@@ -4,8 +4,8 @@
 - 👋 My infrequently updated [blog](https://www.robertwinkler.com/blog/).
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=rswinkle&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=rswinkle&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=rswinkle&count_private=true&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=rswinkle&count_private=true&theme=dark&hide_border=true" width = 400>
 </p>
 
 <!--
