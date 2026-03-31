@@ -1,6 +1,6 @@
 ### Robert Winkler
 
-- 🛠 Currently working on [PortableGL](http://portablegl.com) and more
+- 🛠 Currently working on [PortableGL](http://portablegl.com), [Shader Workshop](http://shaderworkshop.com), and more
 - 📕 Author of ["RISC-V Assembly Programming"](http://riscv.robertwinkler.com) and ["MIPS Assembly Programming"](http://mips.robertwinkler.com)
 - 📨 Feel free to ask me about PortableGL or any of my other projects: robert at portablegl.com
 - 💬 Follow me on 𝕏 ([@robertswinkler](https://x.com/robertswinkler)) or [LinkedIn](https://www.linkedin.com/in/rswinkle/)
